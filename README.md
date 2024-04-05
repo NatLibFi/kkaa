@@ -23,8 +23,9 @@ Kokoelmakartta Doriassa: https://doria.fi/handle/10024/20/browse?type=subject
 ### Taustaa
 Jarmo Saarikko on laatinut tämän koosteen [Sisällönkuvailun asiantuntijaryhmän](https://www.kiwi.fi/pages/viewpage.action?pageId=59937473) Luokitustyöryhmän pyynnöstä. SYNin projektin jälkeen tötä jatkoi Kokoelmakarttatyöryhmä. 
 
-### Lähteitä
+### Lisätietoja Kokoelmakartasta
 - Ahonen, H., & Janhonen, S. (2011). Hankinta, arviointi, esille tuominen ja karsinta - kokoelmatyöryhmän teemoissa näkyy kokoelmien elinkaari. Signum, (1). Noudettu osoitteesta https://journal.fi/signum/article/view/4057. Viitattu 5.4.2024.
-- Louhela, Johanna (2014) "Kokoelmakartta kokoelmien kartoituksen välineenä : Oulun yliopiston kirjaston taloustieteiden kokoelmakartta". Noudettu osoitteesta https://urn.fi/URN:NBN:fi:amk-2014112817326. Viitattu 5.4.2024.  Louhela on kuvaillut opinnäytteesään Kokoelmakartta-hanketta luvussa 4.1.
+- Louhela, Johanna (2014) "Kokoelmakartta kokoelmien kartoituksen välineenä : Oulun yliopiston kirjaston taloustieteiden kokoelmakartta". Noudettu osoitteesta https://urn.fi/URN:NBN:fi:amk-2014112817326. Viitattu 5.4.2024.  (Louhela on kuvaillut opinnäytteesään Kokoelmakartta-hanketta luvussa 4.1.)
+- Palonen, V. (2003) Kokoelmien kuvailu yliopistokirjastojen tietokarttahankkeessa. Tietolinja 02/2003. Noudettu osoitteesta https://urn.fi/URN:NBN:fi-fe20031950. Viitattu 5.4.2024.
 - Siiskonen, L., Ahola, M., & Toivonen, L. (2008). Kokoelmakarttahankkeen toteutus Tampereen yliopiston kirjaston terveystieteiden osastolta. Signum, 36(4). Noudettu osoitteesta https://journal.fi/signum/article/view/3479. Viitattu 5.4.2024.
   
