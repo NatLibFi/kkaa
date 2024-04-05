@@ -3,6 +3,7 @@ Topics for Collection Description (Collection Map)
 
 Kokoelmakartan aihealueiden tunniste kirjastojen sisällönkuvailussa on **kkaa**. (Lähde: [Subject Category Code Source Codes](https://www.loc.gov/standards/sourcelist/subject-category.html)).  MARC21 formaatissa kokoelmakartan tunniste merkitään kenttään [072](https://marc21.kansalliskirjasto.fi/bib/05X-08X.htm#072).
 
+2024-04-05 Huomautus: **Tämä repositorio on aineiston tilapäinen sijoituspaikka, kunnes pidempiaikaisempi ratkaisu selviää.**
 
 Alkuperäinen Varastokirjaston projektisivu on poistettu mutta Waybackissä on kopio: 
 - https://web.archive.org/web/20120107015151/https://varastokirjasto.fi/kokoelmakartta/
