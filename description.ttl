@@ -1,0 +1,8 @@
+dct:title 
+   "Kokoelmakartan aihealueet"@fi, 
+   "Samlingskartans ämnesområden"@sv, 
+   "Library Collection Subject Areas"@en ;
+dct:description 
+    "Kokoelmakartan aihealueet ryhmittely laadittiin Kokoelmakartta-hankkeessa (2002-2007) kirjastokokoelmien kuvailua varten. Hankkeen tavoitteena oli mm. kehittää kokoelmatietojen haettavuutta ja valtakunnallista käytettävyyttä."@fi, 
+    "Samlingkartans ämnesområden utarbetades i projektet Samlingskartan (2002-2007) för beskrivning av bibliotekssamlingarna. Projektets mål var bl.a. att utveckla sökbarheten och den riksomfattande användbarheten för samlingsuppgifter."@sv,
+    "Collection Map Subject Areas is a thematic grouping created in the Collection Map project (2002-2007) for describing library collections. The aim of the project was, among other things, to develop the retrieval and national usability of collection data."@en ;
