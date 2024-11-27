@@ -3,7 +3,8 @@ Topics for Collection Description (Collection Map)
 
 Kokoelmakartan aihealueiden tunniste kirjastojen sisällönkuvailussa on **kkaa**. (Lähde: [Subject Category Code Source Codes](https://www.loc.gov/standards/sourcelist/subject-category.html)).  MARC21 formaatissa kokoelmakartan tunniste merkitään kenttään [072](https://marc21.kansalliskirjasto.fi/bib/05X-08X.htm#072).
 
-2024-04-05 Huomautus: **Tämä repositorio on aineiston tilapäinen sijoituspaikka, kunnes pidempiaikaisempi ratkaisu selviää.**
+Sisällön ylläidosta vastaa Sisällönkuvailun asiantuntijaryhmä (Sisku). Aihealueet on liitetty Sisällönkuvailuoppaseen syyskuussa 2024: [Liite 5: Kokoelmien kuvailun aihealueet (Kokoelmakartta)](https://wiki.helsinki.fi/xwiki/bin/view/rdasovellusohje/RDA-kuvailu%20MARC%2021%20-formaatilla/Sis%C3%A4ll%C3%B6nkuvailuopas/Liite%206/)
+- Siskun tavoitteena on saada aihealueet kuvailijoiden saataville myös [Finto-palvelussa](https://finto.fi/)
 
 Alkuperäinen Varastokirjaston projektisivu on poistettu mutta Waybackissä on kopio: 
 - https://web.archive.org/web/20120107015151/https://varastokirjasto.fi/kokoelmakartta/
@@ -18,7 +19,7 @@ Alkuperäinen Varastokirjaston projektisivu on poistettu mutta Waybackissä on k
 
 > Hankkeeseen osallistuvien kirjastojen käytössä on kokoelmien kuvailua varten Dublin Core Collection Description -sovelluksesta suomalaisia tarpeita varten kehitetty formaatti sekä tallennusalusta, joka on rakennettu DSpace –alustalle Kansalliskirjaston hallinnoimaan sähköisten aineistojen julkaisuarkistoon Doriaan. Tavoitteena on saada kirjastot aktiivisesti tallentamaan kokoelmiensa kuvailuja.
 
-Kokoelmakartta Doriassa: https://doria.fi/handle/10024/20/browse?type=subject
+Kokoelmakartan aineistot Doriassa: https://doria.fi/handle/10024/20/browse?type=subject
 
 ### Taustaa
 Jarmo Saarikko on laatinut tämän koosteen [Sisällönkuvailun asiantuntijaryhmän](https://www.kiwi.fi/pages/viewpage.action?pageId=59937473) Luokitustyöryhmän pyynnöstä. SYNin projektin jälkeen tötä jatkoi Kokoelmakarttatyöryhmä. 
