@@ -1,8 +1,31 @@
-dct:title 
-   "Kokoelmakartan aihealueet"@fi, 
-   "Samlingskartans ämnesområden"@sv, 
-   "Collection Map Subject Categories"@en ;
-dct:description 
-    "Kokoelmakartan aihealueet ryhmittely laadittiin Kokoelmakartta-hankkeessa (2002-2007) kirjastokokoelmien kuvailua varten. Hankkeen tavoitteena oli mm. kehittää kokoelmatietojen haettavuutta ja valtakunnallista käytettävyyttä."@fi, 
-    "Samlingkartans ämnesområden utarbetades i projektet Samlingskartan (2002-2007) för beskrivning av bibliotekssamlingarna. Projektets mål var bl.a. att utveckla sökbarheten och den riksomfattande användbarheten för samlingsuppgifter."@sv,
-    "Collection Map Subject Categories is a thematic grouping created in the Collection Map project (2002-2007) for describing library collections. The aim of the project was, among other things, to develop the retrieval and national usability of collection data."@en ;
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix kkaa: <http://urn.fi/URN:NBN:fi:au:kkaa:> .
+
+kkaa: a skos:conceptScheme ;
+   dct:title  
+      "Kokoelmakartan aihealueet"@fi, 
+      "Samlingskartans ämnesområden"@sv, 
+      "Collection Map Subject Categories"@en ;
+   dct:description 
+      "Kokoelmakartan aihealueet ryhmittely laadittiin Kokoelmakartta-hankkeessa (2002-2007) kirjastokokoelmien kuvailua varten. Hankkeen tavoitteena oli mm. kehittää kokoelmatietojen haettavuutta ja valtakunnallista käytettävyyttä."@fi, 
+      "Samlingkartans ämnesområden utarbetades i projektet Samlingskartan (2002-2007) för beskrivning av bibliotekssamlingarna. Projektets mål var bl.a. att utveckla sökbarheten och den riksomfattande användbarheten för samlingsuppgifter."@sv,
+      "Collection Map Subject Categories is a thematic grouping created in the Collection Map project (2002-2007) for describing library collections. The aim of the project was, among other things, to develop the retrieval and national usability of collection data."@en ;
+   dc:creator 
+      "Kokoelmakartta-projekti (2003-2007)"@fi, 
+      "Samlingskartaprojektet (2003-007)"@sv,
+      "Collection Map Project (2003-2007)"@en ;
+   dc:publisher "National Library of Finland"@en,
+                "Kansalliskirjasto"@fi,
+                "Nationalbiblioteket i Finland"@sv ;
+   dct:language <http://lexvo.org/id/iso639-3/fin>,
+                <http://lexvo.org/id/iso639-3/swe>,
+                <http://lexvo.org/id/iso639-3/eng>  ;
+   dct:license <http://creativecommons.org/publicdomain/zero/1.0/> ;
+   skos:hasTopConcept kkaa:0;
+   foaf:homepage <https://www.kiwi.fi/x/BoLYGg> .
