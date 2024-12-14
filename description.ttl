@@ -16,6 +16,7 @@ kkaa: a skos:conceptScheme ;
       "Kokoelmakartan aihealueet ryhmittely laadittiin Kokoelmakartta-hankkeessa (2002-2007) kirjastokokoelmien kuvailua varten. Hankkeen tavoitteena oli mm. kehittää kokoelmatietojen haettavuutta ja valtakunnallista käytettävyyttä."@fi, 
       "Samlingkartans ämnesområden utarbetades i projektet Samlingskartan (2002-2007) för beskrivning av bibliotekssamlingarna. Projektets mål var bl.a. att utveckla sökbarheten och den riksomfattande användbarheten för samlingsuppgifter."@sv,
       "Collection Map Subject Categories is a thematic grouping created in the Collection Map project (2002-2007) for describing library collections. The aim of the project was, among other things, to develop the retrieval and national usability of collection data."@en ;
+   dc:created "2005-05-22"; 
    dc:creator 
       "Kokoelmakartta-projekti (2003-2007)"@fi, 
       "Samlingskartaprojektet (2003-007)"@sv,
