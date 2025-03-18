@@ -4,7 +4,7 @@ Topics for Collection Description (Collection Map)
 Kokoelmakartan aihealueiden tunniste kirjastojen sisällönkuvailussa on **kkaa**. (Lähde: [Subject Category Code Source Codes](https://www.loc.gov/standards/sourcelist/subject-category.html)).  MARC21 formaatissa kokoelmakartan tunniste merkitään kenttään [072](https://marc21.kansalliskirjasto.fi/bib/05X-08X.htm#072).
 
 Sisällön ylläidosta vastaa Sisällönkuvailun asiantuntijaryhmä (Sisku). Aihealueet on liitetty Sisällönkuvailuoppaseen syyskuussa 2024: [Liite 5: Kokoelmien kuvailun aihealueet (Kokoelmakartta)](https://wiki.helsinki.fi/xwiki/bin/view/rdasovellusohje/RDA-kuvailu%20MARC%2021%20-formaatilla/Sis%C3%A4ll%C3%B6nkuvailuopas/Liite%206/)
-- Siskun tavoitteena on saada aihealueet kuvailijoiden saataville myös [Finto-palvelussa](https://finto.fi/)
+- Kokoelmakartta on julkaistu Finto-palvelussa maaliskuussa 2025 https://finto.fi/kkaa/fi/
 
 Alkuperäinen Varastokirjaston projektisivu on poistettu. 
 - arkistoitu kopio sivusta: [https://varastokirjasto.fi/kokoelmakartta/](https://web.archive.org/web/20120107015151/https://varastokirjasto.fi/kokoelmakartta/) - Viitattu 2024-12-03.
